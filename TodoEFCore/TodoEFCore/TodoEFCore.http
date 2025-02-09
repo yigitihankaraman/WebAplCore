@@ -1,0 +1,6 @@
+@TodoEFCore_HostAddress = http://localhost:5017
+
+GET {{TodoEFCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
